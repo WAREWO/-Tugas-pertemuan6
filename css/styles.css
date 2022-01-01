@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+.cloud1{
+  position:absolute;
+  right:200px;
+  top: 22px;
+}
+.cloud2{
+  position:absolute;
+  left:200px;
+}
+.top-container{
+  padding-top: 100px;
+  background-color: #c5f8f8;
+}
